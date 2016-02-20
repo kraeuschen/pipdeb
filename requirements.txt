@@ -1,0 +1,7 @@
+requests_oauthlib==0.4.2
+git+git://github.com/openstack/python-keystoneclient.git@icehouse-eol
+python-swiftclient==2.5.0
+logbook==0.8.1
+googleads==3.5.0
+statsd==2.1.2
+boto==2.38.0
